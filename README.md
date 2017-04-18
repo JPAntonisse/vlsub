@@ -1,7 +1,7 @@
 vlsub
 =====
 
-#### FIXED CRASHING!!!:
+#### FIXED CRASHING!!!
 
 VLC extension to download subtitles from opensubtitles.org
 
